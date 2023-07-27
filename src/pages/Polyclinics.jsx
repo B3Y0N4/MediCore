@@ -1,9 +1,13 @@
 import React from 'react';
+import Polyclinic from './../components/PolyclinicsDiv/Polyclinic';
 
 function Polyclinics(){
 	return(
 		<div>
-			<p>Polyclinics</p>
+			<Polyclinic name="Clinic1" location="Location1"/>
+			<Polyclinic name='Clinic2' location='Location2'/>
+			<Polyclinic/>
+			<Polyclinic/>
 		</div>
 	);
 }

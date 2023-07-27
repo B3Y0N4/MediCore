@@ -1,8 +1,8 @@
 import React from 'react';
-
+import SearchDiv from '../components/SearchDiv/searchdiv';
 function Institutes(){
 	return(
-		<div>
+		<div className="">
 			<p>Institutes</p>
 		</div>
 	);

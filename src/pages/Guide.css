@@ -1,0 +1,14 @@
+.content-header{
+	display:inline-block;
+	background-color:rgb(42,104,255);
+	font-size:large;
+	font-style: italic;
+	padding:8px;
+}
+
+.content-body{
+	margin-top:5px;
+	margin-left:5px;
+	padding:10px;
+}
+
