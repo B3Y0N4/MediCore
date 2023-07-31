@@ -1,0 +1,164 @@
+[
+    {   "id":1,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_uyku-apnesi-1690011254.webp",
+        "title":"Uyku Kabusunuz Olmasin!: Uyku Apnesi",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+        
+    },
+    {   "id":2,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_saglikli-yasamin-sirlari-1690008465.webp",
+        "title": "Saglikli Yasamin Sirlari...",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    
+    }, 
+    {
+        "id":3,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_fotonaqswitchlazer-1689998604.webp",
+        "title":"Fotona Q-Switch Lazer: Cilt Problemlerinde Etkili ve Guvenli Tedavi",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":4,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_sanakin-tedavisi-1689994300.webp",
+        "title":"Agrisiz Yasam Mumkun Mudur?: Akilli Serum Tedavisi",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },   
+    {
+        "id":5,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_homeopati-2-1689949390.webp",
+        "title":"Homeopati Bakis Açisi",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },   
+    {
+        "id":6,
+        "img":"https://i4.hurimg.com/i/hurriyet/75/750x422/5e662895c9de3d0d20c336b6.jpg",
+        "title":"Plastik Cerrahide Sanat: Da Vinci ve Altin Oran",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },   
+    {
+        "id":7,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_skolyoz-1689937523.webp",
+        "title":"Skolyoz Hastalik Degildir",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },   
+    {
+        "id":8,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_dis-beyazlatma-2-1689933612.webp",
+        "title":"Dis Beyazlatma (Bleaching): Dis Hekiminin Gozunden Detayli Bir Bakis",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },   
+    {
+        "id":9,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_derin-ven-trombozu-1689858362.webp",
+        "title":"Medikal Malpraktis ve Dernegi",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    
+    {
+        "id":10,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_ketogenic-low-carbs-diet-food-selection-white-wall-1689847733.webp",
+        "title":"Derin Ven Trombozu",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":11,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_medikal-malpraktis-1689773214.webp",
+        "title":"Yag Yiyerek Yag Yakma: Ketojenik Diyet",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":12,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_en-sik-gorulen-5-kadin-hastaligi-1689769416.webp",
+        "title":"Unutmayin, Bizler Sizlerin Yanindayiz!",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":13,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_genital-estetik-1689764570.webp",
+        "title":"En Sik Gorulen 5 Kadin Hastaligi",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":14,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_siddetli-basagrisi-ve-migren-2-1689675456.webp",
+        "title":"Genital Estetik: Estetik Cerrahi ile İçsel Benligi İfade Edin",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":15,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_yuz-estetiginde-botoks-uygulamalari-1689598656.webp",
+        "title":"Siddetli Basagrisi ve Migren: Noroloji Uzmani İncelemesi",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":16,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_vucut-sekillendirme-ameliyati-1689594652.webp",
+        "title":"Yuz Estetiginde Botoks Uygulamalari",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":17,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_kadin-kisirliginda-tedavi-yontemleri-1689511516.webp",
+        "title":"Vucut sekillendirme Ameliyati",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":18,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_mitral-valv-prolapsusu-1689499639.webp",
+        "title":"Kadin Kisirligi Hakkinda",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":19,
+        "img":"https://drahmetkarabulut.com/wp-content/uploads/2011/10/31.jpg",
+        "title":"Mitral Valv Prolapsusu",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    },
+    {
+        "id":20,
+        "img":"https://media.doktoruzman.com/img/hastalikbilgisi/thumbnail/thumb_gunes-ve-goz-sagligi-1689493986.webp",
+        "title":"Gunes: Goz Sagligi İçin Dost Mudur, Dusman Midir?",
+        "desc":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit Sint incidunt, eos fugiat voluptatibus provident voluptatum esse ipsa, quia sed deserunt. itaque est labore quae molestias dignissimos odio rem architecto laborum!Quam earum ipsum eos impedit, inventore, quos dignissimos vel quibusdam iste voluptates minima, doloribus totam rem qui a voluptatem neque ab error nobis numquam. Excepturi debitis nostrum eum eveniet eos!"
+    }  
+    ]
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

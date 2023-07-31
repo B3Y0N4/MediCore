@@ -1,7 +1,0 @@
-node_modules/
-package-lock.json
-public/
-
-
-vite.config.js
-card.json
