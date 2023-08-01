@@ -5,7 +5,7 @@ const Doctors = mongoose.model(
   new mongoose.Schema({
     FirstName: { type: String, required: true },
     LastName: { type: String, required: true },
-    Specializations: mongoose.Schema.Mixed,
+    // Specializations: mongoose.Schema.Mixed,
     Guide: String,
     About: String,
     Contact: mongoose.Schema.Types.Mixed,

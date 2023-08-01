@@ -11,6 +11,7 @@ const app = express(); // create express app
 
 // MIDDLEWARES
 app.use(express.static(path.resolve(__dirname, "../client/dist")));
+app.use(express.json());
 app.use(express.static("public"));
 app.use(
   cors({
@@ -38,7 +39,7 @@ db.mongoose
   });
 
 // ROUTES
-app.use("/api", apiRouter);
+app.use("/api/v1", apiRouter);
 
 // All other GET requests not handled before will return our React app
 app.get("*", (req, res) => {
